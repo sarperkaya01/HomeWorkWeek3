@@ -11,7 +11,7 @@ public class CloseNumsApp {
         Scanner sc = new Scanner(System.in);
         int iter = 1;
         while (true) {
-            if (iter > 5)
+            if (iter > 10)
                 break;
             System.out.println((iter) + ". pozitif tam sayiyi giriniz:");
 
