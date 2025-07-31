@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class MapEnrtyWriteApp {
     public static void main(String[] args) {
-        Map<String, Integer> scores = new LinkedHashMap<>()HashMap<>();
+        Map<String, Integer> scores = new LinkedHashMap<>();
 
         scores.put("Ali", 85);
 
